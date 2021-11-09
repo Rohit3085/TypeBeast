@@ -52,6 +52,11 @@ const words = [
   'master',
   'space',
   'definition'
+  ,'abate',
+  'chicanery',
+  'disseminate',
+  'gainsay',
+  'latent'
 ];
 
 function init() {
